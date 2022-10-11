@@ -47,7 +47,7 @@ const Lyrics = ({ track_id, app_state_getter }) => {
         de: "a@b.c",
       },
       headers: {
-        "X-RapidAPI-Key": "a0f6b2edc0msh0c37f115932d01ep1ad397jsnab0e8a4fb44e",
+        "X-RapidAPI-Key": "YOURKEYHERE",
         "X-RapidAPI-Host":
           "translated-mymemory---translation-memory.p.rapidapi.com",
       },
