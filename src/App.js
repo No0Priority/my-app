@@ -5,7 +5,7 @@ import Tracks from "./components/content/Tracks";
 import "./App.css";
 class App extends Component {
   // -=-=-=-=-=- return theme if previously chosen, if not return default, change body bgcolor same principle  -=-=-=-=-=-
-  get_local_theme = () => {
+  get_local_theme =  () => {
     // console.log("get_local_theme");
     let theme;
     if (localStorage) {
